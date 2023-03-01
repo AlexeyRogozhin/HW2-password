@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);//создала объект
+        Scanner scanner = new Scanner(System.in);//создал объект
         String truePass = "password123";
 
         while (true) {
